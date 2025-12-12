@@ -1,0 +1,4 @@
+(load "cl-ml/k-means/k-means.lisp")
+;; (load "k-means/Lisp/km.lisp")
+;; (load "k-means/Lisp/km_test.lisp")
+
