@@ -1,0 +1,17 @@
+* Welcome!
+A lisp code base that imports a ppm! You can use [[https://www.online-utility.org/image/convert/to/PPM][this]] to convert a png file to ppm file(I also included an ImageMagick guide in line). [[https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html][This website]] lets you view the ppm file output.
+
+The following are screenshots of what it does:
+
+Here's my input image (some pretty fanart (credit goes to amalia v) of a character I like):
+
+[[file:/screenshots/input-ss.png]]
+
+And eventually turns into this! (k-means imaged!!):
+
+[[file:/screenshots/6-output-ss.png]]
+[[file:/screenshots/13-output-ss.png]]
+[[file:/screenshots/30-output-ss.png]]
+
+
+* How Image Segmentation works vs K-Means Image Segmentation
