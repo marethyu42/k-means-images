@@ -7,12 +7,15 @@ Here's my input image (some pretty fanart (credit goes to amalia v) of a charact
 
 [[file:/screenshots/input-ss.png]]
 
+
 And eventually turns into this! (k-means imaged!!):
 
 With 6 clusters
 [[file:/screenshots/6-output-ss.png]]
+
 With 13 clusters
 [[file:/screenshots/13-output-ss.png]]
+
 With 30 clusters
 [[file:/screenshots/30-output-ss.png]]
 
