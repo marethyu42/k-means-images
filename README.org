@@ -24,3 +24,6 @@ With 30 clusters
 [[file:/screenshots/30-output-ss.png]]
 
 * How Image Segmentation works vs K-Means Image Segmentation
+
+Classical image segmentation in Computer Vision utilizes a lot more machine learning than any of my work, as I'm using a principle of Machine Learning, but one that's using the image as the sole dataset, while other programs utilize a wide birth of pre-existing training data for detecting varying objects.
+Alternatively, different methods like: thresholding (detecting if pixels are above or below a value), edge detection (to find boundaries of objects—which is a goal of mine to use for this project, too), watersheds (creating a topographical map of valleys/ridges), region based methods (creating adaptive algorithms that "comb" their way through the image, checking similarities), or more!
